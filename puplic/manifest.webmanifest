@@ -1,0 +1,17 @@
+{
+  "id": "/",
+  "name": "Gabetech Church Management System",
+  "short_name": "Gabetech Church",
+  "description": "Members, giving, events and attendance for Gabetech Church, Kimilili.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1c2340",
+  "theme_color": "#1c2340",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
